@@ -1,2 +1,2 @@
 # POWER-BI
-Power BI dashboard with netflix dataset
+Power BI dashboard with world bank economic indicator dataset
